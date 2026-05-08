@@ -11,7 +11,7 @@ title                    : "Pritom Paul"
 title_separator          : "-"
 name                     : &name "Pritom Paul"
 description              : &description "Software Engineer & Researcher | Computer Vision, Deep Learning, Industrial Automation"
-url                      : "https://PritomPaul.github.io"
+url                      : "https://pritom-paul.github.io/PritomPaul.github.io/"
 baseurl                  : "" # e.g., "/portfolio" if hosted at username.github.io/portfolio
 repository               : "PritomPaul/PritomPaul.github.io"
 
