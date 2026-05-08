@@ -1,152 +1,177 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Pritom Paul",
+    "email": "pritompaul98official@gmail.com",
+    "phone": "+8801671011145",
+    "website": "https://pritompaul.github.io",
+    "summary": "Software Engineer with 2+ years of experience in backend systems, industrial automation, and computer vision pipelines. Transitioning toward research in deep learning and applied computer vision.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Bangladesh"
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "Pritom-Paul",
+        "url": "https://github.com/Pritom-Paul"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "pritom-paul-30b40a228",
+        "url": "https://www.linkedin.com/in/pritom-paul-30b40a228/"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": ""
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "AlterSense Limited",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "summary": "Dhaka, Bangladesh",
+      "highlights": [
+        "Automated 10+ industrial workflows using Python, reducing manual effort by 100+ hours/month and improving accuracy by 40%.",
+        "Designed and developed scalable REST APIs in Django with optimized queries, caching, and robust testing.",
+        "Analyzed real-world operational data to identify inefficiencies and deliver targeted automation solutions.",
+        "Deployed containerized services using Docker and Nginx, and implemented CI/CD pipelines via GitHub Actions.",
+        "Mentored junior engineers in system design and development best practices."
+      ]
+    },
+    {
+      "company": "Technomedia Limited",
+      "position": "Technical Support Engineer Intern",
+      "website": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-10-01",
+      "summary": "Motijheel, Dhaka, Bangladesh",
+      "highlights": [
+        "Diagnosed and resolved 50+ ATM hardware/software issues across field deployments, improving uptime by 30%.",
+        "Collaborated with the Counterfeiting Department on hardware validation, reducing ATM failure rates by 25%.",
+        "Contributed to a CDM banknote classification pipeline covering 12+ condition classes with a 4-orientation feed.",
+        "Verified DAT classifications with physical samples and optimized NCR datasets, improving detection accuracy."
+      ]
+    },
+    {
+      "company": "Self-employed",
+      "position": "Student Tutor (O & A Levels)",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Dhaka, Bangladesh",
+      "highlights": [
+        "Mentored 15+ students under the Cambridge curriculum, with over 90% achieving A grades.",
+        "Focused on developing analytical thinking and structured problem-solving skills."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "BRAC University",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "SFX Greenherald School",
+      "area": "A Levels (Cambridge International Examination)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Sunnydale School",
+      "area": "O Levels (Cambridge International Examination)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "JavaScript", "Java", "PHP", "R"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["YOLO", "OpenVINO", "PyTorch"]
+    },
+    {
+      "name": "Data & Systems",
+      "keywords": ["Pandas", "NumPy", "PostgreSQL", "MySQL", "Redis"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Django", "Django REST Framework", "FastAPI"]
+    },
+    {
+      "name": "Frontend",
+      "keywords": ["React", "Svelte"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Docker", "Nginx", "GitHub Actions", "Git", "Linux"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    { "name": "Computer Vision" },
+    { "name": "Image Processing" },
+    { "name": "Deep Learning" },
+    { "name": "Machine Learning" }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "AlterBot",
       "category": "portfolio",
-      "date": "",
+      "date": "2024",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Garment industry workflow automation system. Reduced manual labor by 66%, saving 100+ hours weekly. Built with Python, Django, Playwright, Selenium, Docker, Svelte, PostgreSQL."
+    },
+    {
+      "name": "AlterEye",
+      "category": "portfolio",
+      "date": "2024",
+      "url": "",
+      "description": "Real-time multi-camera vision system for industrial monitoring. Built detection pipelines with YOLO and scalable data flow using MQTT and Redis. Built with Python, GStreamer, YOLO, MQTT, Redis."
+    },
+    {
+      "name": "Technomedia Call Management System (TCMS)",
+      "category": "portfolio",
+      "date": "2023",
+      "url": "",
+      "description": "Full-stack web system for tracking ATM service requests, engineer assignments, and call logs. Built with PHP, MySQL, JavaScript, HTML/CSS."
+    },
+    {
+      "name": "Fish Detection and Dataset Development",
+      "category": "portfolio",
+      "date": "2026",
+      "url": "",
+      "description": "Ongoing research project. Collecting and curating a real-world fish image dataset for detection tasks. Building object detection models using YOLO. Planned research publication. Built with Python, YOLO, Computer Vision."
     }
   ]
 }
