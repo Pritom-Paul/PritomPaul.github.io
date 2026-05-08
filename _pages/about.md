@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pritom Paul"
+title: "Hello I'm Pritom Paul!"
 author_profile: true
 redirect_from: 
   - /about/
