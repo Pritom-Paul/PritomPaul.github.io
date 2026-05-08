@@ -15,5 +15,5 @@ Developed a comprehensive automation platform for garment industry workflows, ha
 ## Key Contributions
 
 - Developed automation systems for garment industry workflows, including data extraction, booking, and export monitoring.
-- Reduced manual labor by 66%, saving 100+ hours weekly while improving system reliability.
+- Reduced manual labor by 80%, saving 100+ hours weekly while improving system reliability.
 - Built a real-time monitoring dashboard and contributed to scalable backend architecture.
